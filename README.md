@@ -1,6 +1,8 @@
-# 👋 Portfolio — Théo
+# 👋 Portfolio — Théo Marme
 
-Développeur autodidacte passionné par la création d'applications **utiles et complètes**, du desktop au web, en passant par l'IA appliquée et le traitement média. J'aime prendre un problème concret et le porter jusqu'à un outil qui fonctionne vraiment.
+Développeur **full-stack** avec 7 ans d'expérience (web, outils de pilotage, intégration de solutions IA). J'aime prendre un problème concret et le porter jusqu'à un outil qui fonctionne vraiment.
+
+Ces projets personnels sont aussi mon **terrain d'expérimentation** : ils me servent à me former en continu aux **nouvelles technologies d'IA** (LLM appliqués, génération d'images, transcription audio) et à explorer des stacks que je n'utilise pas au quotidien (Rust, Tauri, Electron).
 
 **Stacks principales :** Rust · Python · TypeScript / React · Node.js · Tauri · Electron
 **Domaines :** applications desktop, full-stack web temps réel, IA / audio / 3D
